@@ -1,0 +1,19 @@
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+
+  .main {
+    max-width: 1000px;
+    margin: 30px auto;
+    overflow: auto;
+    min-height: 300px;
+    border: 1px solid steelblue;
+    padding: 30px;
+    border-radius: 5px;
+  }
+  h3 {
+    text-align: center;
+  }
+  

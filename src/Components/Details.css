@@ -1,0 +1,12 @@
+/* margin:'auto',marginTop:'300',width:'400px' */
+
+.card-specific{
+   
+    display:flex; 
+    flex-direction: column;
+    justify-content:center;
+  margin:100px auto;
+  width:60%;
+  
+
+} 

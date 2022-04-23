@@ -1,0 +1,10 @@
+.navbar-brand {
+    margin-left: 100px;
+  }
+  .form-inline {
+    margin-right: 100px;
+    display: flex;
+  }
+  .mr-sm-2 {
+    margin-right: 50px;
+  }

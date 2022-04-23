@@ -1,0 +1,18 @@
+.container{
+    width: 400px;
+    justify-content:center;
+    margin:1rem;
+    
+}
+.card-img-top{
+    max-width: 100%;
+}
+.card-footer{
+    display:flex;
+    justify-content:space-around;
+    background-color:rgb(221, 220, 220);
+    border-radius: 100px;
+}
+.container{
+    height:600px
+}
